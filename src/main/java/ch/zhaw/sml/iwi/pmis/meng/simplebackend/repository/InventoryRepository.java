@@ -29,6 +29,11 @@ public class InventoryRepository {
         p.setQuantity(new QuantityPcs(5));
         instance.getParts().put(p.getName(),p);
 
+        p = new Part();
+        p.setName("DimaBeam");
+        p.setQuantity(new QuantityPcs(2));
+        instance.getParts().put(p.getName(),p);
+
     }
     
     private Map<String,Part> parts = new HashMap<>();
