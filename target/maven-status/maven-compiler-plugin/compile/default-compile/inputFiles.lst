@@ -1,0 +1,13 @@
+/Users/katsiuba/Documents/UZH/9. Semester/MP/MP-backend/src/main/java/ch/zhaw/sml/iwi/pmis/meng/simplebackend/SimpleBackend.java
+/Users/katsiuba/Documents/UZH/9. Semester/MP/MP-backend/src/main/java/ch/zhaw/sml/iwi/pmis/meng/simplebackend/model/QuantityTons.java
+/Users/katsiuba/Documents/UZH/9. Semester/MP/MP-backend/src/main/java/ch/zhaw/sml/iwi/pmis/meng/simplebackend/repository/InventoryRepository.java
+/Users/katsiuba/Documents/UZH/9. Semester/MP/MP-backend/src/main/java/ch/zhaw/sml/iwi/pmis/meng/simplebackend/model/QuantityPcs.java
+/Users/katsiuba/Documents/UZH/9. Semester/MP/MP-backend/src/main/java/ch/zhaw/sml/iwi/pmis/meng/simplebackend/boundary/InventoryService.java
+/Users/katsiuba/Documents/UZH/9. Semester/MP/MP-backend/src/main/java/ch/zhaw/sml/iwi/pmis/meng/simplebackend/model/Consultation.java
+/Users/katsiuba/Documents/UZH/9. Semester/MP/MP-backend/src/main/java/ch/zhaw/sml/iwi/pmis/meng/simplebackend/JacksonHibernateConfig.java
+/Users/katsiuba/Documents/UZH/9. Semester/MP/MP-backend/src/main/java/ch/zhaw/sml/iwi/pmis/meng/simplebackend/model/Quantity.java
+/Users/katsiuba/Documents/UZH/9. Semester/MP/MP-backend/src/main/java/ch/zhaw/sml/iwi/pmis/meng/simplebackend/model/Patient.java
+/Users/katsiuba/Documents/UZH/9. Semester/MP/MP-backend/src/main/java/ch/zhaw/sml/iwi/pmis/meng/simplebackend/CorsFilter.java
+/Users/katsiuba/Documents/UZH/9. Semester/MP/MP-backend/src/main/java/ch/zhaw/sml/iwi/pmis/meng/simplebackend/model/Part.java
+/Users/katsiuba/Documents/UZH/9. Semester/MP/MP-backend/src/main/java/ch/zhaw/sml/iwi/pmis/meng/simplebackend/model/Doctor.java
+/Users/katsiuba/Documents/UZH/9. Semester/MP/MP-backend/src/main/java/ch/zhaw/sml/iwi/pmis/meng/simplebackend/model/EPartType.java

@@ -1,0 +1,13 @@
+ch/zhaw/sml/iwi/pmis/meng/simplebackend/model/Quantity.class
+ch/zhaw/sml/iwi/pmis/meng/simplebackend/model/Consultation.class
+ch/zhaw/sml/iwi/pmis/meng/simplebackend/boundary/InventoryService.class
+ch/zhaw/sml/iwi/pmis/meng/simplebackend/model/Patient.class
+ch/zhaw/sml/iwi/pmis/meng/simplebackend/JacksonHibernateConfig.class
+ch/zhaw/sml/iwi/pmis/meng/simplebackend/model/Doctor.class
+ch/zhaw/sml/iwi/pmis/meng/simplebackend/CorsFilter.class
+ch/zhaw/sml/iwi/pmis/meng/simplebackend/model/QuantityPcs.class
+ch/zhaw/sml/iwi/pmis/meng/simplebackend/SimpleBackend.class
+ch/zhaw/sml/iwi/pmis/meng/simplebackend/model/QuantityTons.class
+ch/zhaw/sml/iwi/pmis/meng/simplebackend/model/EPartType.class
+ch/zhaw/sml/iwi/pmis/meng/simplebackend/repository/InventoryRepository.class
+ch/zhaw/sml/iwi/pmis/meng/simplebackend/model/Part.class

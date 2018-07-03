@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>ch.zhaw.sml.iwi.pmis</groupId>
-    <artifactId>MEng-SimpleBackend</artifactId>
+    <artifactId>MP-backend</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
   
@@ -26,12 +26,29 @@
             <groupId>org.glassfish.jersey.containers</groupId>
             <artifactId>jersey-container-servlet</artifactId>
         </dependency>
-	<!-- LOMBOCK -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.fasterxml.jackson.datatype</groupId>
+            <artifactId>jackson-datatype-hibernate5</artifactId>
+        </dependency>
+        <!-- LOMBOCK -->
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>1.18.0</version>
-        </dependency> 
+        </dependency>
+        <dependency>
+            <groupId>ch.zhaw.sml.iwi.pmis</groupId>
+            <artifactId>MP-backend</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
     
     <properties>
