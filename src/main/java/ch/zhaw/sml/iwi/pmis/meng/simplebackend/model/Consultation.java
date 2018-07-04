@@ -23,4 +23,7 @@ public class Consultation {
     @ManyToOne (fetch = FetchType.EAGER)
     private Doctor doctor;
 
+    @OneToOne
+    private  ConsTemplate consTemplate;
+
 }
