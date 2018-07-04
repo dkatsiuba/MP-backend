@@ -1,5 +1,6 @@
 package ch.zhaw.sml.iwi.pmis.meng.simplebackend.model;
 
+import java.util.ArrayList;
 import lombok.Data;
 
 import javax.persistence.*;
@@ -14,7 +15,7 @@ public class ConsTemplate {
     private Long id;
 
     @OneToMany
-    private List<Consinfo> consinfos;
+    private List<CaseInfo> caseInfos = new ArrayList<>();
 
 
 }

@@ -16,5 +16,22 @@ public class Patient {
     private Long id;
 
     private int patientenNr;
+    
+    private String firstName;
+    private String lastName;
 
+    public Patient() {
+    }
+
+    @OneToOne
+    private UserAccount userAccount;
+    
+    public Patient(int patientenNr, String firstName, String lastName) {
+        this.patientenNr = patientenNr;
+        this.firstName = firstName;
+        this.lastName = lastName;
+    }
+
+    
+    
 }
